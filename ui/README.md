@@ -5,7 +5,7 @@
 
 # Install locally
 1. wget https://raw.githubusercontent.com/spring-cloud/spring-cloud-dataflow/v1.7.3.RELEASE/spring-cloud-dataflow-server-local/docker-compose.yml
-1. `DATAFLOW_VERSION=1.7.3.RELEASE & docker-compose up`
+1. `DATAFLOW_VERSION=1.7.3.RELEASE docker-compose up`
 1. Open the dashboard at http://localhost:9393/dashboard
 
 
